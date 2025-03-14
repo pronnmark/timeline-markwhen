@@ -1,0 +1,32 @@
+---
+title: Welcome to klyfta
+view:  \*
+
+#dagny: #8e46af
+#klyfta: #84948a
+#infrastructure: #8a8a8a
+#init: #050976
+#infra: #a0ded7
+#mobile: #6a80a4
+---
+now: klyfta is a digital platform with self-development tools
+
+section planned features
+
+group infrastructure 
+2025-03-10/2025-03-13: login/register #infrastructure
+- [ ] understand and make prod-clerk
+2025-03-14/2025-03-16: create-profile #infrastructure
+- [ ] create profile
+2025-03-17/2025-03-24: Android #mobile
+2025-03-17/2025-03-31: iOS #mobile
+endGroup
+
+
+group study assistance  #dagny
+2025-03-17/2025-03-21: [web] fast-phased focus #dagny
+2025-03-21/2025-03-22: [web] slow-phased focus #dagny
+endGroup
+
+endSection
+
